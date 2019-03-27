@@ -1,2 +1,3 @@
-##1st Year, Second Semester Python Project
+## 1st Year, Second Semester Python Project
+
 Encrypt text, text files and binary files
